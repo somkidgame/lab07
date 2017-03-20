@@ -47,7 +47,7 @@ if ($conn->query($sql) === TRUE) {
 <body>
 
     <button type="button"><a href="http://angsila.cs.buu.ac.th/~58160038/887371/lab07/show_register.php">
-		Info
+		Info :
 	</a></button>
     </body>
     </html>
