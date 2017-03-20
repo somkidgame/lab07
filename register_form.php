@@ -102,13 +102,13 @@ $('#submit').on('click',function(event) {
 <br><br><button type="button"><a href="er.png">
 		ER Diagram
 	</a></button><br><br>
-    <button type="button"><a href="http://angsila.cs.buu.ac.th/~58160038/887371/lab07/show_register.php">
+    <button type="button"><a href="https://github.com/somkidgame/lab07/blob/master/dopost.php">
 		Source code : dopost.php
 	</a></button>
-    <button type="button"><a href="http://angsila.cs.buu.ac.th/~58160038/887371/lab07/show_register.php">
+    <button type="button"><a href="https://github.com/somkidgame/lab07/blob/master/register_form.php">
 		Source code : register_form.php
 	</a></button>
-    <button type="button"><a href="http://angsila.cs.buu.ac.th/~58160038/887371/lab07/show_register.php">
+    <button type="button"><a href="https://github.com/somkidgame/lab07/blob/master/show_register.php">
 		Source code : show_register.php
 	</a></button>
 </body>

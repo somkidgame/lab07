@@ -50,5 +50,6 @@ $result->close();
     <center><button type="button"><a href="http://angsila.cs.buu.ac.th/~58160038/887371/lab07/register_form.php">
 		Register
 	</a></button>
+    
 </body>
 <html>
